@@ -1,0 +1,21 @@
+[submodule "cloudbackenc-common"]
+	path = cloudbackenc-common
+	url = git@github.com:irotsoma/cloudbackenc-common.git
+[submodule "cloudbackenc-ui"]
+	path = cloudbackenc-ui
+	url = git@github.com:irotsoma/cloudbackenc-ui.git
+[submodule "cloudbackenc-cloudservice-googledrive"]
+	path = cloudbackenc-cloudservice-googledrive
+	url = git@github.com:irotsoma/cloudbackenc-cloudservice-googledrive.git
+[submodule "cloudbackenc-filecontroller"]
+	path = cloudbackenc-filecontroller
+	url = git@github.com:irotsoma/cloudbackenc-filecontroller.git
+[submodule "cloudbackenc-encryption-bouncycastle"]
+	path = cloudbackenc-encryption-bouncycastle
+	url = git@github.com:irotsoma/cloudbackenc-encryption-bouncycastle.git
+[submodule "cloudbackenc-centralcontroller"]
+	path = cloudbackenc-centralcontroller
+	url = git@github.com:irotsoma/cloudbackenc-centralcontroller.git
+[submodule "cloudbackenc-encryption-apachecommonscrypto"]
+	path = cloudbackenc-encryption-apachecommonscrypto
+	url = git@github.com:irotsoma/cloudbackenc-encryption-apachecommonscrypto.git
