@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/centralcontroller.iml" filepath="$PROJECT_DIR$/.idea/modules/centralcontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-cloudservice-googledrive.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-cloudservice-googledrive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-apachecommonscrypto.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-apachecommonscrypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-bouncycastle.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-bouncycastle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cloudservices/cloudservices.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cloudservices/cloudservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/encryption/encryption.iml" filepath="$PROJECT_DIR$/.idea/modules/common/encryption/encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filecontroller.iml" filepath="$PROJECT_DIR$/.idea/modules/filecontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui.iml" filepath="$PROJECT_DIR$/.idea/modules/ui.iml" />
+    </modules>
+  </component>
+</project>

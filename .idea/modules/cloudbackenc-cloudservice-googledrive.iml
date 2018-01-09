@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="cloudbackenc-cloudservice-googledrive" external.linked.project.path="$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive" external.root.project.path="$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive" external.system.id="GRADLE" external.system.module.group="com.irotsoma.cloudbackenc.cloudservice" external.system.module.version="0.3-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/build/classes/kotlin/main" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="cloudbackenc-cloudservice-googledrive" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/out" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/build/license-reports">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/build/license-reports" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.github.microutils:kotlin-logging:1.4.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-web:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.apis:google-api-services-drive:v3-rev87-1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.api-client:google-api-client-java6:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.oauth-client:google-oauth-client-jetty:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-context:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-aop:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-beans:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-expression:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-core:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.api-client:google-api-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.oauth-client:google-oauth-client-java6:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.oauth-client:google-oauth-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.http-client:google-http-client-jackson2:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.http-client:google-http-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpclient:4.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:guava-jdk5:17.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpcore:4.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-codec:commons-codec:1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.github.microutils:kotlin-logging:1.4.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-web:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.apis:google-api-services-drive:v3-rev87-1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.api-client:google-api-client-java6:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.oauth-client:google-oauth-client-jetty:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-context:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-aop:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-beans:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-expression:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-core:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.api-client:google-api-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.oauth-client:google-oauth-client-java6:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.oauth-client:google-oauth-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.http-client:google-http-client-jackson2:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.http-client:google-http-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpclient:4.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.guava:guava-jdk5:17.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpcore:4.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-codec:commons-codec:1.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.github.microutils:kotlin-logging:1.4.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-web:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.apis:google-api-services-drive:v3-rev87-1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.api-client:google-api-client-java6:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.oauth-client:google-oauth-client-jetty:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-context:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-aop:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-beans:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-expression:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-core:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.api-client:google-api-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.oauth-client:google-oauth-client-java6:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.oauth-client:google-oauth-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.http-client:google-http-client-jackson2:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.http-client:google-http-client:1.23.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.httpcomponents:httpclient:4.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava-jdk5:17.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.httpcomponents:httpcore:4.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: commons-codec:commons-codec:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+  </component>
+</module>
