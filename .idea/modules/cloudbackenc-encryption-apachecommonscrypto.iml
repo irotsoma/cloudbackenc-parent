@@ -5,7 +5,13 @@
       <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
         <compilerSettings />
         <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build/kotlin-classes/main" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="cloudbackenc-encryption-apachecommonscrypto" />
           <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
           <option name="languageVersion" value="1.2" />
           <option name="apiVersion" value="1.2" />
           <option name="pluginOptions">

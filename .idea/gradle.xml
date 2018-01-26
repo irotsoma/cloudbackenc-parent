@@ -14,6 +14,16 @@
         <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-common" />
@@ -23,38 +33,6 @@
             <option value="$PROJECT_DIR$/cloudbackenc-common/common" />
             <option value="$PROJECT_DIR$/cloudbackenc-common/common/cloudservices" />
             <option value="$PROJECT_DIR$/cloudbackenc-common/common/encryption" />
-          </set>
-        </option>
-        <option name="resolveModulePerSourceSet" value="false" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="createEmptyContentRootDirectories" value="true" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-filecontroller" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/cloudbackenc-filecontroller" />
-          </set>
-        </option>
-        <option name="resolveModulePerSourceSet" value="false" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="createEmptyContentRootDirectories" value="true" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-ui" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/cloudbackenc-ui" />
-          </set>
-        </option>
-        <option name="resolveModulePerSourceSet" value="false" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
@@ -75,6 +53,29 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/cloudbackenc-encryption-bouncycastle" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-filecontroller" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/cloudbackenc-filecontroller" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-ui" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/cloudbackenc-ui" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
