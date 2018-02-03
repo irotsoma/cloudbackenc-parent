@@ -2,7 +2,7 @@
 <module external.linked.project.id="filecontroller" external.linked.project.path="$MODULE_DIR$/../../cloudbackenc-filecontroller" external.root.project.path="$MODULE_DIR$/../../cloudbackenc-filecontroller" external.system.id="GRADLE" external.system.module.group="com.irotsoma.cloudbackenc" external.system.module.version="0.3-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration spring_boot_spring_config_custom_files="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/config/application.properties" />
     </facet>
     <facet type="web" name="Web">
       <configuration>
@@ -76,9 +76,9 @@
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.github.microutils:kotlin-logging:1.4.6" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.github.microutils:kotlin-logging:1.5.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.10" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.0.0.RC1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.0.0.RC1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework.boot:spring-boot-starter-log4j2:2.0.0.RC1" level="project" />
@@ -161,9 +161,9 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.github.microutils:kotlin-logging:1.4.6" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.github.microutils:kotlin-logging:1.5.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.10" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.0.0.RC1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.0.0.RC1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.boot:spring-boot-starter-log4j2:2.0.0.RC1" level="project" />
@@ -246,9 +246,9 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.github.microutils:kotlin-logging:1.4.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.github.microutils:kotlin-logging:1.5.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.0.0.RC1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.0.0.RC1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.springframework.boot:spring-boot-starter-log4j2:2.0.0.RC1" level="project" />
