@@ -52,7 +52,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Gradle: io.github.microutils:kotlin-logging:1.5.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.30" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-web:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.apis:google-api-services-drive:v3-rev101-1.23.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.api-client:google-api-client-java6:1.23.0" level="project" />
@@ -84,7 +84,7 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: io.github.microutils:kotlin-logging:1.5.3" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.3" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.30" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-web:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.apis:google-api-services-drive:v3-rev101-1.23.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.api-client:google-api-client-java6:1.23.0" level="project" />
@@ -116,7 +116,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: io.github.microutils:kotlin-logging:1.5.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.30" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-web:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.apis:google-api-services-drive:v3-rev101-1.23.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.api-client:google-api-client-java6:1.23.0" level="project" />
