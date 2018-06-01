@@ -75,9 +75,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.3-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.3-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: no.tornado:tornadofx:1.7.14" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.30" level="project" />
@@ -154,9 +151,27 @@
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jboss:jandex:2.0.3.Final" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: dom4j:dom4j:1.6.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-jcl:5.0.4.RELEASE" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.3-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.3-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: common-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: cloudservices-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: encryption-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: no.tornado:tornadofx:1.7.14" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.30" level="project" />
@@ -233,9 +248,27 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jboss:jandex:2.0.3.Final" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: dom4j:dom4j:1.6.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-jcl:5.0.4.RELEASE" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.3-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.3-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.irotsoma.cloudbackenc:common:0.3-SNAPSHOT" level="project" />
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: common-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: cloudservices-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: encryption-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: no.tornado:tornadofx:1.7.14" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.30" level="project" />
@@ -331,5 +364,26 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.springframework:spring-jcl:5.0.4.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.minidev:accessors-smart:1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.ow2.asm:asm:5.0.4" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: common-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: cloudservices-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: encryption-0.3:3">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
