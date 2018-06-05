@@ -4,19 +4,20 @@ This application is designed to allow users to encrypt files and store them usin
 
 NOTE: This software is in very early development and not meant for use at this time.  Stay tuned for further updates as alpha and beta versions are available.
 
-<span style="font-size: .5em;">
-Copyright (C) 2016  Irotsoma, LLC
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+##### Copyright (C) 2016  Irotsoma, LLC
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Lesser General Public License for more details.
+##### This program is free software: you can redistribute it and/or modify
+##### it under the terms of the GNU Lesser General Public License as published by
+##### the Free Software Foundation, either version 3 of the License, or
+##### (at your option) any later version.
 
-You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>
-</span>
+##### This program is distributed in the hope that it will be useful,
+##### but WITHOUT ANY WARRANTY; without even the implied warranty of
+##### MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+##### GNU Lesser General Public License for more details.
+
+##### You should have received a copy of the GNU Lesser General Public License
+##### along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+###### [<img src="/images/jetbrains-variant-4.png" alt="Jetbrains" width=60>](https://www.jetbrains.com/) Special thanks to JetBrains for donating products used in the development of this product.
