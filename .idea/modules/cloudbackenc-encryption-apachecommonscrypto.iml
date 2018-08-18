@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="cloudbackenc-encryption-apachecommonscrypto" external.linked.project.path="$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto" external.root.project.path="$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto" external.system.id="GRADLE" external.system.module.group="com.irotsoma.cloudbackenc.encryption" external.system.module.version="0.3" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="cloudbackenc-encryption-apachecommonscrypto" external.linked.project.path="$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto" external.root.project.path="$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto" external.system.id="GRADLE" external.system.module.group="com.irotsoma.cloudbackenc.encryption" external.system.module.version="0.4-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
@@ -29,19 +29,13 @@
     <output-test url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto">
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/main/kotlin" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/test/kotlin" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/out" />
     </content>
-    <content url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build/license-reports">
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build/license-reports" type="java-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build/license-reports" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.30" level="project" />
