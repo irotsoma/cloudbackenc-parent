@@ -13,4 +13,4 @@ NOTE: This software is in very early development and not meant for use at this t
 
 ##### You should have received a copy of the GNU Lesser General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-###### ![Jetbrains]("/images/jetbrains-variant-4.png" | width=60) Special thanks to JetBrains for donating products used in the development of this product.
+###### ![Jetbrains](/images/jetbrains-variant-4.png) Special thanks to JetBrains for donating products used in the development of this product.
