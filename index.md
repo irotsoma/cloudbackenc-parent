@@ -13,4 +13,4 @@ NOTE: This software is in very early development and not meant for use at this t
 
 ##### You should have received a copy of the GNU Lesser General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-###### <img src="https://irotsoma.github.io/cloudbackenc-parent/images/jetbrains-variant-4.png" height="40px" width="60px"/> Special thanks to JetBrains for donating products used in the development of this product.
+###### <img src="./images/jetbrains-variant-4.png" height="40px" width="60px"/> Special thanks to JetBrains for donating products used in the development of this product.
