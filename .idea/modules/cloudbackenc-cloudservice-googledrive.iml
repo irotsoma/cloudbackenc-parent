@@ -24,6 +24,9 @@
           <option name="pluginClasspaths">
             <array />
           </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
         </compilerArguments>
       </configuration>
     </facet>
@@ -41,6 +44,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/out" />
     </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-cloudservice-googledrive/build/license-reports" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.4-SNAPSHOT" level="project" />

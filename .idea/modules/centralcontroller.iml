@@ -48,6 +48,9 @@
               <option value="$KOTLIN_BUNDLED$/lib/noarg-compiler-plugin.jar" />
             </array>
           </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
         </compilerArguments>
       </configuration>
     </facet>
@@ -70,6 +73,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/logs" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/out" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/build/license-reports">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/build/license-reports" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

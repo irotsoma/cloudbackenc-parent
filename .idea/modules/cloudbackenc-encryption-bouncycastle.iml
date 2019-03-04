@@ -21,6 +21,9 @@
           <option name="pluginClasspaths">
             <array />
           </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
         </compilerArguments>
       </configuration>
     </facet>
@@ -38,6 +41,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/out" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/build/license-reports">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/build/license-reports" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
