@@ -35,7 +35,6 @@
     <content url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle">
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/src/test/kotlin" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/build/license-reports" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-bouncycastle/.gradle" />

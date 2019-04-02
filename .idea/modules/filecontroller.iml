@@ -2,16 +2,15 @@
 <module external.linked.project.id="filecontroller" external.linked.project.path="$MODULE_DIR$/../../cloudbackenc-filecontroller" external.root.project.path="$MODULE_DIR$/../../cloudbackenc-filecontroller" external.system.id="GRADLE" external.system.module.group="com.irotsoma.cloudbackenc" external.system.module.version="0.4-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
-      <configuration spring_boot_spring_config_custom_files="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/config/application.properties" />
+      <configuration />
     </facet>
     <facet type="web" name="Web">
       <configuration>
         <webroots />
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/resources" />
           <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/kotlin" />
           <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/license-reports" />
-          <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/resources" />
         </sourceRoots>
       </configuration>
     </facet>
@@ -65,9 +64,9 @@
     <content url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller">
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/test/kotlin" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/license-reports" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/license-reports" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/out" />
