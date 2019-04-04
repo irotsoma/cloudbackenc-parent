@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/centralcontroller.iml" filepath="$PROJECT_DIR$/.idea/modules/centralcontroller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-cloudservice-googledrive.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-cloudservice-googledrive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-apachecommonscrypto.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-apachecommonscrypto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-bouncycastle.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-bouncycastle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/centralcontroller.iml" filepath="$PROJECT_DIR$/.idea/modules/centralcontroller.iml" group="centralcontroller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-cloudservice-googledrive.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-cloudservice-googledrive.iml" group="cloudbackenc-cloudservice-googledrive" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-apachecommonscrypto.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-apachecommonscrypto.iml" group="cloudbackenc-encryption-apachecommonscrypto" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-bouncycastle.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudbackenc-encryption-bouncycastle.iml" group="cloudbackenc-encryption-bouncycastle" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/common-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common-parent.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common-parent.common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cloudservices/common-parent.common.cloudservices.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cloudservices/common-parent.common.cloudservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/encryption/common-parent.common.encryption.iml" filepath="$PROJECT_DIR$/.idea/modules/common/encryption/common-parent.common.encryption.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/filecontroller.iml" filepath="$PROJECT_DIR$/.idea/modules/filecontroller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui.iml" filepath="$PROJECT_DIR$/.idea/modules/ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui.iml" filepath="$PROJECT_DIR$/.idea/modules/ui.iml" group="ui" />
     </modules>
   </component>
 </project>
