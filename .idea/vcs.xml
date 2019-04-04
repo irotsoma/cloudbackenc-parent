@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudbackenc-centralcontroller" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloudbackenc-common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudbackenc-encryption-apachecommonscrypto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudbackenc-encryption-bouncycastle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudbackenc-filecontroller" vcs="Git" />
