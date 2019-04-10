@@ -8,10 +8,10 @@
       <configuration>
         <webroots />
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../../cloudbackenc-ui/src/main/kotlin" />
           <root url="file://$MODULE_DIR$/../../cloudbackenc-ui/build/license-reports" />
-          <root url="file://$MODULE_DIR$/../../cloudbackenc-ui/src/main/java" />
           <root url="file://$MODULE_DIR$/../../cloudbackenc-ui/src/main/resources" />
+          <root url="file://$MODULE_DIR$/../../cloudbackenc-ui/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../cloudbackenc-ui/src/main/kotlin" />
         </sourceRoots>
       </configuration>
     </facet>
@@ -108,14 +108,14 @@
     <orderEntry type="library" name="Gradle: org.mariadb.jdbc:mariadb-java-client:2.3.0" level="project" />
     <orderEntry type="library" name="Gradle: org.liquibase:liquibase-core:3.6.2" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-web:11.0.2:win" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:11.0.2:win" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:11.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-fxml:11.0.2:win" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:11.0.2:win" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:11.0.2" level="project" />
-    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:11.0.2:win" level="project" />
-    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:11.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:11.0.2:win" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:11.0.2" level="project" />
-    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:11.0.2:win" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:11.0.2:linux" level="project" />
     <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:11.0.2" level="project" />
     <orderEntry type="library" name="Gradle: io.github.microutils:kotlin-logging-common:1.6.22" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.11" level="project" />
