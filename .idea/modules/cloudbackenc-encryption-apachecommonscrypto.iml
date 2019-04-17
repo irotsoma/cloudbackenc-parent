@@ -35,7 +35,6 @@
     <content url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto">
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build/license-reports" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-encryption-apachecommonscrypto/out" />
