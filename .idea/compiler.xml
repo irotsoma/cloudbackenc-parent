@@ -9,6 +9,8 @@
       <module name="cloudservice-googledrive_test" target="1.8" />
       <module name="encryption-apachecommonscrypto_main" target="1.8" />
       <module name="encryption-apachecommonscrypto_test" target="1.8" />
+      <module name="ui_main" target="12" />
+      <module name="ui_test" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>

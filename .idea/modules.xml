@@ -11,7 +11,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/cloudservices/common-parent.common.cloudservices.iml" filepath="$PROJECT_DIR$/.idea/modules/common/cloudservices/common-parent.common.cloudservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/encryption/common-parent.common.encryption.iml" filepath="$PROJECT_DIR$/.idea/modules/common/encryption/common-parent.common.encryption.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/filecontroller.iml" filepath="$PROJECT_DIR$/.idea/modules/filecontroller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui.iml" filepath="$PROJECT_DIR$/.idea/modules/ui.iml" />
     </modules>
   </component>
 </project>

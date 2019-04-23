@@ -1,9 +1,6 @@
 [submodule "cloudbackenc-common"]
 	path = cloudbackenc-common
 	url = git@github.com:irotsoma/cloudbackenc-common.git
-[submodule "cloudbackenc-ui"]
-	path = cloudbackenc-ui
-	url = git@github.com:irotsoma/cloudbackenc-ui.git
 [submodule "cloudbackenc-cloudservice-googledrive"]
 	path = cloudbackenc-cloudservice-googledrive
 	url = git@github.com:irotsoma/cloudbackenc-cloudservice-googledrive.git
