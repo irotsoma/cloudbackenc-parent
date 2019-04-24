@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-centralcontroller" />
-        <option name="gradleHome" value="D:/DevTools/gradle-3.1" />
+        <option name="gradleHome" value="D:/DevTools/gradle-5.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/cloudbackenc-centralcontroller" />
@@ -15,7 +15,6 @@
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="disableWrapperSourceDistributionNotification" value="true" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" />
         <option name="modules">
