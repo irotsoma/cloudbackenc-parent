@@ -6,6 +6,7 @@
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/cloudbackenc-centralcontroller" />
         <option name="gradleHome" value="D:/DevTools/gradle-5.4" />
+        <option name="gradleJvm" value="12" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/cloudbackenc-centralcontroller" />
