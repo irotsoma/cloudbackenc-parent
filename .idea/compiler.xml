@@ -5,6 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="centralcontroller.main" target="11" />
+      <module name="centralcontroller.test" target="1.8" />
       <module name="cloudservice-googledrive_main" target="1.8" />
       <module name="cloudservice-googledrive_test" target="1.8" />
       <module name="encryption-apachecommonscrypto_main" target="1.8" />
