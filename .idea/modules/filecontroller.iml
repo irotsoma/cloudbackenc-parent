@@ -18,7 +18,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+      <configuration version="3" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../cloudbackenc-filecontroller/src/test/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-java-parameters" />
         </compilerSettings>
@@ -29,8 +29,6 @@
           <option name="noReflect" value="true" />
           <option name="moduleName" value="filecontroller" />
           <option name="jvmTarget" value="1.8" />
-          <option name="addCompilerBuiltIns" value="true" />
-          <option name="loadBuiltInsFromDependencies" value="true" />
           <option name="languageVersion" value="1.3" />
           <option name="apiVersion" value="1.3" />
           <option name="pluginOptions">
@@ -69,9 +67,21 @@
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/test/kotlin" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kapt/test" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/license-reports" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/out" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kapt/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kapt/main" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kapt/test" />
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kaptKotlin/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kaptKotlin/main" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kaptKotlin/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/generated/source/kaptKotlin/test" isTestSource="true" generated="true" />
     </content>
     <content url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/license-reports">
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/license-reports" type="java-resource" />
@@ -79,6 +89,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.irotsoma.cloudbackenc.common:cloudservices:0.4-SNAPSHOT" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: kaptGeneratedClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/tmp/kapt3/classes/main" />
+          <root url="file://$MODULE_DIR$/../../cloudbackenc-filecontroller/build/tmp/kapt3/classes/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="Gradle: com.irotsoma.cloudbackenc.common:encryption:0.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: com.irotsoma.cloudbackenc:common:0.4-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.8" level="project" />
