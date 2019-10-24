@@ -66,6 +66,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/src/test/kotlin" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/build/generated/source/kapt/test" isTestSource="true" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../cloudbackenc-centralcontroller/out" />
