@@ -5,12 +5,20 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="centralcontroller" target="11" />
       <module name="centralcontroller.main" target="11" />
       <module name="centralcontroller.test" target="1.8" />
+      <module name="cloudbackenc-cloudservice-googledrive" target="11" />
+      <module name="cloudbackenc-encryption-apachecommonscrypto" target="11" />
+      <module name="cloudbackenc-encryption-bouncycastle" target="11" />
       <module name="cloudservice-googledrive_main" target="1.8" />
       <module name="cloudservice-googledrive_test" target="1.8" />
+      <module name="common-parent.common" target="11" />
+      <module name="common-parent.common.cloudservices" target="11" />
+      <module name="common-parent.common.encryption" target="11" />
       <module name="encryption-apachecommonscrypto_main" target="1.8" />
       <module name="encryption-apachecommonscrypto_test" target="1.8" />
+      <module name="filecontroller" target="11" />
       <module name="ui_main" target="12" />
       <module name="ui_test" target="12" />
     </bytecodeTargetLevel>

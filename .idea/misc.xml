@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cloudbackenc-centralcontroller" />
+    <file type="web" url="file://$PROJECT_DIR$/cloudbackenc-cloudservice-googledrive" />
+    <file type="web" url="file://$PROJECT_DIR$/cloudbackenc-common" />
+    <file type="web" url="file://$PROJECT_DIR$/cloudbackenc-encryption-apachecommonscrypto" />
+    <file type="web" url="file://$PROJECT_DIR$/cloudbackenc-encryption-bouncycastle" />
+    <file type="web" url="file://$PROJECT_DIR$/cloudbackenc-filecontroller" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
